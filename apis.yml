@@ -11,6 +11,17 @@ description: 'Iantrek, Inc. is a venture-backed ophthalmic medical technology co
   used to launch AlloFlo Uveo in the United States in October 2025. Iantrek publishes
   a corporate and surgeon-facing marketing website at iantrekmed.com; it operates no
   public developer portal, documentation, or machine-readable API surface.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/68a8587a72d95eb3c8e82014/68af21a8c819016c8870130b_Graph%20Card.png
 url: https://raw.githubusercontent.com/api-evangelist/iantrek/refs/heads/main/apis.yml
 x-type: company
