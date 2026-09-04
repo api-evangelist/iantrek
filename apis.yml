@@ -22,6 +22,18 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://cdn.prod.website-files.com/68a8587a72d95eb3c8e82014/68af21a8c819016c8870130b_Graph%20Card.png
 url: https://raw.githubusercontent.com/api-evangelist/iantrek/refs/heads/main/apis.yml
 x-type: company
